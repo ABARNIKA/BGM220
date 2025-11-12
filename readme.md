@@ -154,7 +154,7 @@ COUNT: 20
 - **LED:** Blinks in sync with counter updates  
 
 ### 🖼️ Demo Image
-![BGM220 GC9A01 LCD Output](/home/abarnika/Downloads/MQTT.jpg)
+![BGM220 GC9A01 LCD Output](https://github.com/ABARNIKA/BGM220/commit/ffe141f2842a0cf39b8c79ee13775483470c288a)
 *(Replace this link with your actual image later)*
 
 ---
