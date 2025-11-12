@@ -1,6 +1,6 @@
-# 🧩 BGM220 – GC9A01 TFT LCD Display Interface
+#  BGM220 – GC9A01 TFT LCD Display Interface
 
-## 📘 Project Overview
+##  Project Overview
 This project demonstrates **SPI communication** between a **Silicon Labs BGM220 Bluetooth SoC** and a **1.28-inch GC9A01 circular TFT LCD display**.
 
 It initializes the display, renders text and numbers using custom fonts, shows a static logo background, and dynamically updates a counter in real time.  
@@ -111,6 +111,21 @@ test_lcd/
 ├── test_lcd.slcp
 ├── test_lcd.pintool
 └── readme.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
